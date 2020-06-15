@@ -1,5 +1,9 @@
 *.bin linguist-detectable=false
 *.asm linguist-detectable=false
 *.mk linguist-detectable=false
+*.xml linguist-detectable=false
+*.jlink linguist-detectable=false
+*.o linguist-detectable=false
+*.d linguist-detectable=false
 *.h linguist-detectable=true
 *.c linguist-detectable=true
