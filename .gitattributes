@@ -1,3 +1,4 @@
 *.bin linguist-detectable=false
+*.asm linguist-detectable=false
 *.h linguist-detectable=true
 *.c linguist-detectable=true
