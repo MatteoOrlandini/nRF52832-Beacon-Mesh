@@ -41,6 +41,8 @@ Otherwise Flash Data Storage module will not work correctly.
 
 # Results
 
+With this application the board broadcasts three kinds of beacon (nRF Beacon, iBeacon and Eddystone URL Beacon) while partecipating in a mesh network. The user can also connect to the board and change the Eddystone Beacon via the Eddystone Configuration Service.
+
 You can test Bluetooth Mesh functionalities with two other boards that implement the Provisioner and Server role.
 
 You can test beacons and BLE GATT with [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=it) and then you can see the three kinds of beacon transmitted as shown in the images below.
