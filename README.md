@@ -47,19 +47,18 @@ You can test Bluetooth Mesh functionalities with two other boards that implement
 
 You can test beacons and BLE GATT with [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=it) and then you can see the three kinds of beacon transmitted as shown in the images below.
 
-![](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/images/Eddystone.PNG)
+![](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/images/Eddystone.PNG)
 
-![](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/images/iBeacon.PNG)
+![](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/images/iBeacon.PNG)
 
-![](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/images/nRF_Beacon.PNG)
+![](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/images/nRF_Beacon.PNG)
 
 If you click 'Connect' you can see the Eddystone Configuration Service.
 
-![](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/images/ESCS.jpg)
+![](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/images/ESCS.jpg)
 
 ---
 
 # Extra
 
-For more information please see [Presentazione.pdf](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/Presentazione.pdf) and [Relazione.pdf](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/Relazione.pdf) in Italian. The English [Report.pdf](https://github.com/MatteoOrlandini/Beacon_Mesh/blob/master/Report.pdf) is under translation.
-
+For more information please see [Presentazione.pdf](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/Presentazione.pdf) and [Relazione.pdf](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/Relazione.pdf) in Italian. The English [Report.pdf](https://github.com/MatteoOrlandini/nRF52832-Beacon-Mesh/blob/master/Report.pdf) is under translation.
